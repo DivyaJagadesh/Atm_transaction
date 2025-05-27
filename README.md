@@ -1,1 +1,1 @@
-# Atm_transaction
+Developed a C++-based ATM Transaction Simulator demonstrating Two-Phase Locking (2PL) for concurrency control. The system uses file-based locking to ensure exclusive account access, logs queued access attempts with timestamps, and simulates deposit, withdrawal, and balance inquiry with real-time updates.
